@@ -42,7 +42,7 @@ header span {
 }
 
 .main-image {
-    width: 715px;
+    max-width: 715px;
 }
 
 
@@ -139,7 +139,7 @@ th, td {
     font-size: 14px;
     color: #303030;
     text-align: center;
-    padding: 12px 0;
+    padding: 12px 15px;
     border: 1px solid rgba(48, 48, 48, 0.3);
     text-align:center;
 }
@@ -162,4 +162,5 @@ footer {
     font-weight: 400;
     font-size: 14px;
     color: #2965f1;
+    text-decoration-line: none;
 }
